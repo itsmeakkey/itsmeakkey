@@ -3,7 +3,7 @@
 
 ### 🌐 Desarrollo Web
 - **Backend:** `Java`, `Spring Boot` (en aprendizaje), `Python`, `PHP`.  
-- **Frontend:** `Angular` (en aprendizaje), `JavaScript`, `HTML`, `CSS`.
+- **Frontend:** `Angular` (en aprendizaje), `React` (en aprendizaje) `JavaScript`, `HTML`, `CSS`.
 
 ### ⚙️ Herramientas
 - **Control de versiones:** `Git`.  

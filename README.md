@@ -1,7 +1,7 @@
 # 👨‍💻 Sobre mí
 ¡Hola! Soy David, desarrollador web junior y actualmente becario en NTT Data Spain. 
 
-## Aprendizaje
+## Aprendizaje:
 ### 🌐 Desarrollo Web
 - **Backend:** `Java`, `Spring Boot` (en aprendizaje), `Python`, `PHP`.  
 - **Frontend:** `Angular` (en aprendizaje), `React` (en aprendizaje), `JavaScript`, `HTML`, `CSS`.

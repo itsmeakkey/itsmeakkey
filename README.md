@@ -17,7 +17,7 @@ Soy Desarrollador Junior con formación en **Desarrollo de Aplicaciones Web (DAW
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 ![SQL](https://img.shields.io/badge/SQL-%23006482.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### ✅ **Frameworks:**  
+### ✅ **Frameworks y librerías:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) &nbsp;
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) &nbsp; 
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) &nbsp;

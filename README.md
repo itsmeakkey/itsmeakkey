@@ -29,4 +29,4 @@ Soy Desarrollador Junior con formación en **Desarrollo de Aplicaciones Web (DAW
 ## 🌎 Idiomas  
 
 - **Español:** Nativo  
-- **Inglés:** Competencia profesional  
+- **Inglés:** Intermedio
